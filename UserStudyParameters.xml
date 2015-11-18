@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<userStudyParameters>
+    <!-- Specify type of study | CylinderStudy, KinectStudy -->
+    <studyType>KinectStudy</studyType>
+    <studyDicomLocation>/Users/adamkohl/Documents/VRAC/CARDIAC</studyDicomLocation>
+    <studyResultLocation>/Users/adamkohl/Documents/VRAC/IsisDesktop/studies/Kinect/Results.txt</studyResultLocation>
+    <anatomyOrientation>
+        <cameraPosition>
+            <Orientation1>
+                <x> </x>
+                <y> </y>
+                <z> </z>
+                </Orientation1>
+            <Orientation2>
+                <x> </x>
+                <y> </y>
+                <z> </z>
+                </Orientation2>
+            </cameraPosition>
+        <viewPosition>
+            <Orientation1>
+                <x> </x>
+                <y> </y>
+                <z> </z>
+                </Orientation1>
+            <Orientation2>
+                <x> </x>
+                <y> </y>
+                <z> </z>
+                </Orientation2>
+            </viewPosition>
+        <cylinderPosition>
+            <red>
+                <Orientation1>
+                    <x> </x>
+                    <y> </y>
+                    <z> </z>
+                    </Orientation1>
+                <Orientation2>
+                    <x> </x>
+                    <y> </y>
+                    <z> </z>
+                    </Orientation2>
+                </red>
+            <green>
+                <Orientation1>
+                    <x> </x>
+                    <y> </y>
+                    <z> </z>
+                    </Orientation1>
+                <Orientation2>
+                    <x> </x>
+                    <y> </y>
+                    <z> </z>
+                    </Orientation2>
+                </green>
+            <blue>
+                <Orientation1>
+                    <x> </x>
+                    <y> </y>
+                    <z> </z>
+                    </Orientation1>
+                <Orientation2>
+                    <x> </x>
+                    <y> </y>
+                    <z> </z>
+                    </Orientation2>
+                </blue>
+            </cylinderPosition>
+        <sliderPosition>
+            <Orientation1>
+                <max> </max>
+                <min> </min>
+                </Orientation1>
+            <Orientation2>
+                <max> </max>
+                <min> </min>
+                </Orientation2>
+            </sliderPosition>
+        </anatomyOrientation>
+    <uiSetup>
+        <leftPanelFrame>off</leftPanelFrame>
+        <rightPanelFrame>off</rightPanelFrame>
+        <tissueSliderGridFrame>on</tissueSliderGridFrame>
+        </uiSetup>
+    <!-- time is in milliseconds -->
+    <time value="120000"/>
+    <taskCommand>
+        <1> </1>
+        <2> </2>
+        </taskCommand>
+</UserStudyParameters>
+                    
+            
+    
